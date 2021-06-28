@@ -1,0 +1,885 @@
+# Translation of Themes - Featuredlite in Japanese
+# This file is distributed under the same license as the Themes - Featuredlite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-08-05 05:14:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Featuredlite\n"
+
+#. Description of the plugin/theme
+msgid "Featured lite theme is specially designed for corporate/business websites. Theme is user friendly and its instant set up process help you to create professional website for Business (Agency, Interior, Florist, Transport, Construction etc), Shop / eCommerce, Personal, Blog, Photography. This responsive theme comes with live customizer, Full body background slider and background image option, Translation ready, Header layouts (Default, Center and Split), Widget based home page sections with unlimited items capability, Unlimited color option, Advance Section styling, Professionally designed sections (Ribbon, Services, About Us, Call to action, Team, Shop (WooCommerce), Testimonial, Latest News, Contact Us (With call to, Mail to, Address and Map). Theme contain seven widget area (Four for footer, Two for sidebar (default pages) and one for shop page). Theme is compatible with WooCommerce, bbPress, Lead form builder, Contactform7 and with many other WP plugin."
+msgstr "注目のライトテーマは、企業/ビジネスのウェブサイト向けに特別に設計されています。テーマはユーザーフレンドリーでインスタントセットアッププロセスは、ビジネス（代理店、インテリア、花屋、輸送、建設など）、ショップ/電子商取引、個人、ブログ、写真用のプロフェッショナルウェブサイトを作成するのに役立ちます。このレスキューテーマには、ライブカスタマイズ、フルボディの背景スライダと背景画像オプション、翻訳準備、ヘッダレイアウト（デフォルト、センターとスプリット）、無制限アイテム機能を備えたウィジェットベースのホームページセクション、無制限カラーオプション、アドバンスセクションスタイリング、テーマは、7つのウィジェットエリア（フッタのために4つ、フッタのために4つ）が含まれています（リボン、サービス、私たちについて、コール、アクション、チーム、ショップ（WooCommerce）、推薦、最新ニュース、 WooCommerce、bbPress、Leadフォームビルダ、Contactform7、その他多くのWPプラグインと互換性があります。サイドバー（デフォルトページ）とショップページ用の2​​つです。"
+
+#. #-#-#-#-#  featuredlite.pot (Featuredlite 1.0.9)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/featuredlite-theme.php:91
+msgid "Featuredlite"
+msgstr "Featuredlite"
+
+#: inc/featuredlite-theme.php:349
+msgid "Details"
+msgstr "詳細"
+
+#: inc/featuredlite-theme.php:311
+msgid "Active Now"
+msgstr "今すぐ有効化"
+
+#: inc/featuredlite-theme.php:289
+msgid "Install Now"
+msgstr "今すぐインストール"
+
+#: inc/featuredlite-theme.php:227
+msgid "Recommend Plugins"
+msgstr "推奨プラグイン"
+
+#: inc/featuredlite-theme.php:219
+msgid "Your settings copied."
+msgstr "設定をコピーしました。"
+
+#: inc/featuredlite-theme.php:216
+msgid "Copy now"
+msgstr "今すぐコピー"
+
+#: inc/featuredlite-theme.php:208
+msgid "To Theme"
+msgstr "テーマへ"
+
+#: inc/featuredlite-theme.php:202
+msgid "From Theme"
+msgstr "テーマから"
+
+#: inc/featuredlite-theme.php:196
+msgid "Child theme uses it’s own theme setting name, would you like to copy setting data from parent theme to this child theme?"
+msgstr "子テーマは、独自のテーマ設定名を使用して、親テーマからこの子テーマに設定データをコピーしますか？"
+
+#: inc/featuredlite-theme.php:194
+msgid "You're using %1$s theme, It's a child theme"
+msgstr "あなたは%1$sのテーマを使用しています。それは子テーマです"
+
+#: inc/featuredlite-theme.php:156
+msgid "After this go to Dashboard > Settings > Reading and set newly created page as a static page under \"Front page displays\" and save your changes."
+msgstr "その後、[ダッシュボード]> [設定]> [読み取り]に移動し、新しく作成したページを[フロントページの表示]の静的ページとして設定し、変更を保存します。"
+
+#: inc/featuredlite-theme.php:154
+msgid ""
+" \n"
+"Go to your dashboard. Create a new page and select “Home Page Template” from page attribute."
+msgstr "ダッシュボードに移動します。新しいページを作成し、ページ属性から「ホームページテンプレート」を選択します。"
+
+#: inc/featuredlite-theme.php:87
+msgid "Get Started with Featuredlite %s"
+msgstr "Featuredlite %s を使い始める"
+
+#: inc/featuredlite-theme.php:84
+msgid " Get Started with Featuredlite"
+msgstr "Featuredlite を使い始める"
+
+#: inc/featuredlite-theme.php:31
+msgid "Create a support ticket"
+msgstr "サポートチケットを作成する"
+
+#: inc/featuredlite-theme.php:30
+msgid "If you need any help you can contact to our support team, our team is always ready to help you."
+msgstr "ヘルプが必要な場合は、サポートチームに連絡することができます。チームはいつでも手伝っています。"
+
+#: inc/featuredlite-theme.php:29
+msgid "Theme Documentation"
+msgstr "テーマドキュメンテーション"
+
+#: inc/featuredlite-theme.php:27
+msgid "Support Forum"
+msgstr "サポートフォーラム"
+
+#: inc/featuredlite-theme.php:25
+msgid "Step 4 - Theme Support"
+msgstr "ステップ4  - テーマのサポート"
+
+#: inc/featuredlite-theme.php:23
+msgid "Start Customize"
+msgstr "カスタマイズを始める"
+
+#: inc/featuredlite-theme.php:22
+msgid "%s theme support live customizer for home page set up. Everything visible at home page can be changed through customize panel."
+msgstr "%s テーマは、ホームページ作成用のライブカスタマイザーをサポートしています。ホームページで表示されるすべてのものは、カスタマイズパネルで変更できます"
+
+#: inc/featuredlite-theme.php:21
+msgid "Step 3 - Customize Your Website"
+msgstr "あなたのウェブサイトをカスタマイズする"
+
+#: inc/featuredlite-theme.php:19
+msgid "Configuration Instructions (with video)"
+msgstr "設定手順（ビデオ付き"
+
+#: inc/featuredlite-theme.php:17
+msgid "Step 2 - Configure Homepage Layout"
+msgstr "ホームページのレイアウトを設定する"
+
+#: inc/featuredlite-theme.php:14
+msgid "Go To Recommended Action"
+msgstr "推奨アクションに移動"
+
+#: inc/featuredlite-theme.php:13
+msgid "Firstly install recommended plugin Themehunk Customizer.  It will activate homepage sections ( Like : Header, Ribbon, Service, About Us, Team, WooCommerce, Testimonial and Contact Us )."
+msgstr "まず、推奨プラグインのThemehunk Customizerをインストールします。ホームページのセクション（ヘッダー、リボン、サービス、会社概要、チーム、WooCommerce、お客様の声、お問い合わせ）を有効にします。"
+
+#: inc/featuredlite-theme.php:11
+msgid "Step 1 - Do recommended actions"
+msgstr "ステップ 1 - 推奨アクションを実行する"
+
+#: inc/featuredlite-theme.php:9
+msgid "Recommended Actions"
+msgstr "おすすめアクション"
+
+#: inc/featuredlite-theme.php:8
+msgid "Get Started with Featuredlite"
+msgstr "Featuredlite を使い始める"
+
+#: inc/featuredlite-theme.php:7
+msgid "Featuredlite is a versatile one page theme for creating beautiful websites. This theme comes with powerful features which will help you in designing a wonderful website for any type of niche (Business, Landing page, E-commerce, Local business, Personal website)."
+msgstr "Featuredlite は、美しいウェブサイトを作成するための汎用性の高い1ページのテーマです。このテーマには、あらゆる種類のニッチ（ビジネス、ランディングページ、Eコマース、ローカルビジネス、パーソナルウェブサイト）の素晴らしいウェブサイトをデザインするのに役立つ強力な機能が搭載されています。"
+
+#: inc/featuredlite-theme.php:6
+msgid "Welcome to Featuredlite - Version %1s"
+msgstr "Featuredlite へようこそ - バージョン％1s"
+
+#: functions.php:71
+msgid "ThemeHunk Customizer"
+msgstr "ThemeHunk カスタマイザー"
+
+#: customizer/pro-button/class-customize.php:84
+msgid "View Docs"
+msgstr "ドキュメンテーションを表示"
+
+#: customizer/pro-button/class-customize.php:83
+msgid "View Documentation"
+msgstr "ドキュメンテーションを表示"
+
+#: customizer/customizer.php:38
+msgid "Body Background Image"
+msgstr "身体の背景画像"
+
+#: customizer/customizer.php:33
+msgid "Body Background Color"
+msgstr "ボディの背景色"
+
+#: customizer/customizer.php:27
+msgid "Header Background Image"
+msgstr "ヘッダーの背景イメージ"
+
+#: customizer/customizer.php:16
+msgid "Display Site Title & Tagline"
+msgstr "サイトのタイトルとタグラインを表示する"
+
+#. Template Name of the plugin/theme
+msgid "Home Page Layout"
+msgstr "ホームページレイアウト"
+
+#: template/section_blogslider.php:7
+msgid "Latest News"
+msgstr "最新ニュース"
+
+#: searchform.php:4
+msgctxt "text"
+msgid "Search"
+msgstr "検索"
+
+#: searchform.php:3
+msgctxt "placeholder"
+msgid "Search"
+msgstr "検索"
+
+#: search.php:23
+msgid "Newer Posts"
+msgstr "新しい投稿"
+
+#: search.php:22
+msgid "Older Posts"
+msgstr "過去の投稿"
+
+#: search.php:16
+msgid "Search Results for : %s"
+msgstr "%s の検索結果"
+
+#: loop.php:42
+msgid "sorry no post matched your criteria!"
+msgstr "ごめんなさいあなたの基準にマッチした投稿はありません。"
+
+#: loop.php:32
+msgid "Read More"
+msgstr "続きを読む"
+
+#: loop.php:24
+msgid "One Comment"
+msgstr "1件のコメント"
+
+#: loop.php:24
+msgid "No Comments"
+msgstr "コメントはまだありません"
+
+#: inc/widget.php:68
+msgid "Woocommerce page display"
+msgstr "WooCommerce ページ表示"
+
+#: inc/widget.php:66
+msgid "Woocommerce widget area"
+msgstr "WooCommerce ウィジェットエリア"
+
+#: inc/widget.php:58
+msgid "Appears in the Four footer section of the site."
+msgstr "サイトの第4フッターセクションに表示されます。"
+
+#: inc/widget.php:56
+msgid "Fourth Footer Widget Area"
+msgstr "フッターウィジェットエリア 4"
+
+#: inc/widget.php:48
+msgid "Appears in the Third footer section of the site."
+msgstr "サイトの第3フッターセクションに表示されます。"
+
+#: inc/widget.php:46
+msgid "Third Footer Widget Area"
+msgstr "フッターウィジェットエリア 3"
+
+#: inc/widget.php:37
+msgid "Appears in the Second footer section of the site."
+msgstr "サイトの第2フッターセクションに表示されます。"
+
+#: inc/widget.php:35
+msgid "Second Footer Widget Area"
+msgstr "フッターウィジェットエリア 2"
+
+#: inc/widget.php:27
+msgid "Appears in the first footer section of the site."
+msgstr "サイトの第1フッターセクションに表示されます。"
+
+#: inc/widget.php:25
+msgid "First Footer Widget Area"
+msgstr "フッターウィジェットエリア 1"
+
+#: inc/widget.php:17
+msgid "Secondry sidebar that appears on the left."
+msgstr "左側に表示されるセカンダリーサイドバー"
+
+#: inc/widget.php:15
+msgid "Secondry Sidebar"
+msgstr "サイドバー2"
+
+#: inc/widget.php:7
+msgid "Main sidebar that appears on the left."
+msgstr "左側に表示されるメインサイドバー"
+
+#: inc/widget.php:5
+msgid "Primary Sidebar"
+msgstr "メインサイドバー"
+
+#: inc/static-function.php:131 loop.php:24
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: inc/static-function.php:131
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: inc/static-function.php:131
+msgid "No Comment"
+msgstr "コメントはありません"
+
+#: inc/static-function.php:108
+msgid "You may also like this"
+msgstr "あなたはこれも好きかもしれません"
+
+#: inc/static-function.php:72 inc/static-function.php:73
+msgid "%title"
+msgstr "%title"
+
+#: inc/static-function.php:42
+msgid "Main Menu"
+msgstr "メインメニュー"
+
+#: inc/static-function.php:23
+msgid "Front Menu"
+msgstr "フロントメニュー"
+
+#: inc/plugin-install.php:54
+msgid "All plugins installed and activated successfully. %s"
+msgstr "すべてのプラグインのインストール・有効化が完了しました: %s"
+
+#: inc/plugin-install.php:49
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "%sプラグインを更新する適切な権限がありません。プラグインを更新するには、サイトの管理者にお問い合わせください。"
+
+#: inc/plugin-install.php:48
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "%1$s プラグインは、このテーマとの互換性を完全にするために最新バージョンへの更新が必要です。"
+
+#: inc/plugin-install.php:47
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "%sプラグインを有効化する適切な権限がありません。プラグインを有効化する方法については、このサイトの管理者にお問い合わせください。"
+
+#: inc/plugin-install.php:46
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "推奨プラグインが現在無効です: %1$s。"
+
+#: inc/plugin-install.php:45
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "必須プラグインが現在無効です: %1$s。"
+
+#: inc/plugin-install.php:44
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "%sプラグインをインストールする適切な権限がありません。プラグインをインストールするには、サイトの管理者にお問い合わせください。"
+
+#: inc/plugin-install.php:43
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "このテーマは、以下のプラグインの利用を推奨しています: %1$s。"
+
+#: inc/plugin-install.php:42
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "このテーマは、以下のプラグインの利用が必要です: %1$s。"
+
+#: functions.php:79 inc/plugin-install.php:24
+msgid "Woocommerce"
+msgstr "WooCommerce"
+
+#: functions.php:75 inc/plugin-install.php:19
+msgid "Lead Form Builder"
+msgstr "Lead Form Builder"
+
+#: inc/plugin-install.php:15
+msgid "Themehunk Customizer"
+msgstr "Themehunk カスタマイザー"
+
+#: inc/breadcrumb.php:760
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/breadcrumb.php:732 inc/breadcrumb.php:1161
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/breadcrumb.php:731 inc/breadcrumb.php:787 inc/breadcrumb.php:1157
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/breadcrumb.php:730 inc/breadcrumb.php:759 inc/breadcrumb.php:786
+#: inc/breadcrumb.php:813 inc/breadcrumb.php:1153
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: inc/breadcrumb.php:714
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: inc/breadcrumb.php:697
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/breadcrumb.php:680
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/breadcrumb.php:228
+msgid "Week %s"
+msgstr "%s週"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/breadcrumb.php:226
+msgid "Minute %s"
+msgstr "%s分"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumb.php:224
+msgid "Page %s"
+msgstr "ページ %s"
+
+#. Translators: %s is the search query. The HTML entities are opening and
+#. closing curly quotes.
+#: inc/breadcrumb.php:222
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221; の検索結果"
+
+#: inc/breadcrumb.php:220
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: inc/breadcrumb.php:219
+msgid "404 Not Found"
+msgstr "404 Not Found"
+
+#: inc/breadcrumb.php:218
+msgid "Home"
+msgstr "ホーム"
+
+#: inc/breadcrumb.php:217
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "パンくずリスト"
+
+#: inc/breadcrumb.php:216
+msgid "Browse:"
+msgstr "参照: "
+
+#: footer.php:19
+msgid "Powered by %s"
+msgstr "Powered by %s"
+
+#: footer.php:19
+msgid "https://themehunk.com/"
+msgstr "https://themehunk.com/"
+
+#: customizer/pro-button/class-customize.php:72
+msgid "Pro Themes"
+msgstr "Pro 版テーマ"
+
+#: customizer/customizer.php:8
+msgid "General Setting"
+msgstr "全般設定"
+
+#: content.php:37 page.php:29
+msgid "Pages:"
+msgstr "ページ: "
+
+#: content.php:20
+msgid ", "
+msgstr ", "
+
+#: content-none.php:16
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: content-none.php:13
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
+
+#: content-none.php:11
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿をする準備ができましたか ?  <a href=\"%1$s\">ここからスタート</a>してください。"
+
+#: content-none.php:8
+msgid "Nothing Found"
+msgstr "見つかりません"
+
+#: comments.php:51
+msgid "Post Comment"
+msgstr "コメントを送信"
+
+#: comments.php:50
+msgid "Cancel Reply"
+msgstr "返信のキャンセル"
+
+#: comments.php:49
+msgid "Leave a Reply"
+msgstr "コメントを残す"
+
+#: comments.php:41
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: comments.php:41
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: comments.php:36
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:18
+msgid "Comments..."
+msgstr "コメント..."
+
+#: comments.php:10
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "この投稿はパスワードで保護されています。コメントを表示するには、パスワードを入力します。"
+
+#: comments.php:8
+msgid "Please do not load this page directly. Thanks!"
+msgstr "このページを直接読み込まないでください。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグインをインストール中 %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "すべてのインストールが完了しました。"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s を正常にインストールしました。"
+
+#: class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "更新プロセスを開始しています。サーバーによっては少し時間がかかるかもしれません。しばらくお待ちください。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグインをインストール、有効化中 %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "すべてのインストールと有効化が完了しました。"
+
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "詳細を非表示"
+
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "詳細を表示"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s を正常にインストールし、有効化しました。"
+
+#: class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "インストールと有効化プロセスを開始しています。サーバーによっては少し時間がかかるかもしれません。しばらくお待ちください。"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "%1$s のインストールに失敗しました。"
+
+#. translators: 1: plugin name, 2: error message.
+#: class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "<strong>%2$s</strong>%1$s のインストール中にエラーが発生しました。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグインの更新中 %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "プラグインの有効化に失敗しました。"
+
+#: class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "現時点で有効化できるプラグインはありません。"
+
+#: class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "有効化するプラグインが選択されていません。何も実行しませんでした。"
+
+#: class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "現在更新できるプラグインはありません。"
+
+#: class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "現時点でインストールできるプラグインはありません。"
+
+#: class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "更新するプラグインが選択されていません。何も実行しませんでした。"
+
+#: class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "インストールするプラグインが選択されていません。何も実行しませんでした。"
+
+#: class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "有効化"
+
+#: class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "更新"
+
+#: class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "インストール"
+
+#: class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "プラグイン作者からの更新メッセージ:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "%2$s を有効化"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "%2$s を更新"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "%2$s をインストール"
+
+#: class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "状態"
+
+#: class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "バージョン"
+
+#: class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "タイプ"
+
+#: class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "ソース"
+
+#: class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "プラグイン"
+
+#: class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "インストール・更新・有効化可能なプラグインがありません。"
+
+#: class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "利用可能なバージョン:"
+
+#: class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "最低要求バージョン: "
+
+#: class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "インストールしたバージョン: "
+
+#: class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "不明"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "使用中 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "利用可能な更新 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "未インストール <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "すべて <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s、%2$s"
+
+#: class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "更新が推奨されています"
+
+#: class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "更新が必要です"
+
+#: class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "必要な更新が利用できません"
+
+#: class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "有効"
+
+#: class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "停止中"
+
+#: class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "未インストール"
+
+#: class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "プリパッケージ"
+
+#: class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "外部ソース"
+
+#: class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress 公式ディレクトリ"
+
+#: class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "推奨"
+
+#: class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "必須"
+
+#. translators: %s: version number
+#: class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:1121 class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "と"
+
+#: class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "リモートプラグインパッケージは複数のファイルで構成されていますが、ファイルは1つのフォルダー内にパッケージされていません。"
+
+#: class-tgm-plugin-activation.php:934 class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "プラグイン開発者に連絡し、WordPress のガイドラインに沿ったプラグインのパッケージ化を依頼してください。"
+
+#: class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "リモートプラグインパッケージには、指定されたスラッグのフォルダーがないため、名前の変更ができませんでした。"
+
+#: class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "更新が必要です"
+
+#: class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "使用中のテーマとの互換性を保つため、このプラグインを更新する必要があります。"
+
+#: class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "ヘルプが必要な場合はこのサイトの管理者にお問い合わせください。"
+
+#: class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "インストール・更新・有効化可能な必須・推奨プラグインがあります。"
+
+#: class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "無視する"
+
+#. translators: 1: dashboard link.
+#: class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "すべてのプラグインを正常にインストールし、有効化しました。 %1$s"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "プラグインを有効化できませんでした。このテーマには上位バージョンの %s が必要です。プラグインを更新してください。"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "操作を実行しませんでした。プラグイン %1$s はすでに有効です。"
+
+#: class-tgm-plugin-activation.php:388 class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr "以下のプラグインを有効化しました:"
+
+#: class-tgm-plugin-activation.php:387 class-tgm-plugin-activation.php:3159
+#: inc/plugin-install.php:53
+msgid "Plugin activated successfully."
+msgstr "プラグインを有効化しました。"
+
+#: class-tgm-plugin-activation.php:386 class-tgm-plugin-activation.php:827
+#: class-tgm-plugin-activation.php:2533 class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "ダッシュボードに戻る"
+
+#: class-tgm-plugin-activation.php:385 inc/plugin-install.php:52
+msgid "Return to Required Plugins Installer"
+msgstr "必須プラグインのインストール画面に戻る"
+
+#: class-tgm-plugin-activation.php:380 inc/plugin-install.php:51
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "プラグインの有効化を開始"
+
+#: class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "プラグインの更新を開始"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:370 inc/plugin-install.php:50
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "プラグインのインストールを開始"
+
+#: class-tgm-plugin-activation.php:333 inc/plugin-install.php:41
+msgid "Something went wrong with the plugin API."
+msgstr "プラグイン API で問題が発生しました。"
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "プラグインの更新:  %s"
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:330 inc/plugin-install.php:40
+msgid "Installing Plugin: %s"
+msgstr "プラグインをインストール中: %s"
+
+#: class-tgm-plugin-activation.php:328 inc/plugin-install.php:39
+msgid "Install Plugins"
+msgstr "プラグインのインストール"
+
+#: class-tgm-plugin-activation.php:327 inc/plugin-install.php:38
+msgid "Install Required Plugins"
+msgstr "必要なプラグインのインストール"
+
+#: 404.php:18
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "こちらには何もありません。検索をお試しください。"
+
+#: 404.php:14
+msgid "Not Found"
+msgstr "見つかりません"
+
+#. Author URI of the plugin/theme
+msgid "www.themehunk.com"
+msgstr "www.themehunk.com"
+
+#. #-#-#-#-#  featuredlite.pot (Featuredlite 1.0.9)  #-#-#-#-#
+#. Author of the plugin/theme
+#: inc/featuredlite-theme.php:4
+msgid "ThemeHunk"
+msgstr "ThemeHunk"
+
+#. Theme URI of the plugin/theme
+msgid "https://themehunk.com/product/featured-lite-business-wordpress-theme/"
+msgstr "https://themehunk.com/product/featured-lite-business-wordpress-theme/"
